@@ -1,4 +1,4 @@
-#Idea Town
+#Idea Town DEPRECATED see [idea-town repo](https://github.com/mozilla/idea-town/tree/master/addon)
 The addon where ideas come to idea
 
 ## installation
